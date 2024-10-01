@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\bin\Debug\net8.0\Animales.exe
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\bin\Debug\net8.0\Animales.deps.json
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\bin\Debug\net8.0\Animales.runtimeconfig.json
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\bin\Debug\net8.0\Animales.dll
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\bin\Debug\net8.0\Animales.pdb
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\Animales.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\Animales.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\Animales.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\Animales.dll
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\refint\Animales.dll
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\Animales.pdb
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\Animales.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 4\Programación II - Juan Enmanuel Rosario Rodriguez\Factory-OCP\Ejercicio Factory\Animales\obj\Debug\net8.0\ref\Animales.dll
